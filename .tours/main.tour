@@ -28,7 +28,7 @@
     },
     {
       "title": "Try it out!",
-      "description": "Ejecutemos el código a ver si funciona! In la terminal, correr `python3 main.py`. Debería iniciar el juego de piedra, papel o tijera. \n\nMisión cumplida! Usamos GitHub Copilot para crear un juego de piedra, papel o tijera!"
+      "description": "Ejecutemos el código a ver si funciona! En la terminal, correr `python3 main.py`. Debería iniciar el juego de piedra, papel o tijera. \n\nMisión cumplida! Usamos GitHub Copilot para crear un juego de piedra, papel o tijera!"
     }
   ],
   "ref": "main"
