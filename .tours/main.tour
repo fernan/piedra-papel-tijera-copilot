@@ -14,7 +14,7 @@
     {
       "file": "main.py",
       "line": 2,
-      "description": "Ahora, vamos a pedirle a Copilot que importe el módulo `random`. Escribí este comentario `# import random module` en la próxima linea. Presionar enter para crear una nueva línea y aceptar las sugerencias de Copilot. \n\n `Next` para seguir 👇"
+      "description": "Ahora, vamos a pedirle a Copilot que importe el módulo `random`. Escribí este comentario `# importar el modulo random` en la próxima linea. Presionar enter para crear una nueva línea y aceptar las sugerencias de Copilot. \n\n `Next` para seguir 👇"
     },
     {
       "file": "main.py",
@@ -27,7 +27,7 @@
       "description": "Ahora, pidamosle a Copilot que llame a la funcion principal. Escribí este comentario `# llamar a la funcion principal ` en la siguiente linea. Presionar enter para crear una nueva línea y aceptar las sugerencias de Copilot. \n\n `Next` para seguir 👇"
     },
     {
-      "title": "Try it out!",
+      "title": "Probemos el programa!",
       "description": "Ejecutemos el código a ver si funciona! En la terminal, correr `python3 main.py`. Debería iniciar el juego de piedra, papel o tijera. \n\nMisión cumplida! Usamos GitHub Copilot para crear un juego de piedra, papel o tijera!"
     }
   ],
