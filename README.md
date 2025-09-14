@@ -18,7 +18,7 @@ El CodeTour nos invita a escribir comentarios y líneas de código que activan G
 
 <img width="618" alt="Open in a codespace image" src="https://user-images.githubusercontent.com/22990146/222702705-3b6a58e5-bde4-4197-8372-056629d87006.png">
 
-2. Selecciona el icono del explorador en la barra lateral izquierda de tu editor.
+2. Selecciona el icono del explorador en la barra lateral izquierda de tu editor y parate sobre el archivo `main.py`.
 
 <img width="431" alt="Resaltando el icono del Explorador" src="https://user-images.githubusercontent.com/22990146/222706773-ad2fcb4f-5346-4bcc-995f-88c1ceec8083.png">
 
