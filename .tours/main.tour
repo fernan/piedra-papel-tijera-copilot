@@ -3,32 +3,32 @@
   "title": "main",
   "steps": [
     {
-      "title": "Introduction",
-      "description": "Hi there! this is a guided tour to help you learn GitHub Copilot. We will build a rock, paper, scissors game with Python.\n\nPress `Next` to to get started 👇"
+      "title": "Introduccion",
+      "description": "Hola! este es un tour guiado para ayudarte a aprender GitHub Copilot. Vamos a programar un juego de piedra, papel o tijera con Python.\n\nPresionar `Next` para empezar 👇"
     },
     {
       "file": "main.py",
       "line": 1,
-      "description": "Let's give GitHub Copilot some context about what we're building. Write this comment `# Write a rock, paper, scissors, game` at the top of your main.py file.\n\nPress `Next` to to get continue 👇"
+      "description": "Vamos a darle a GitHub Copilot algo de contexto sobre lo que estamos construyendo. Escribí este comentario `# escribir un juego de piedra, papel o tijera` al inicio de nuestro archivo main.py.\n\n `Next` para seguir 👇"
     },
     {
       "file": "main.py",
       "line": 2,
-      "description": "Now, let's prompt Copilot to import the `random` module. Write this comment `# import random module` on the next line. Press enter to create a new line and accept Copilot's suggstion. \n\nPress `Next` to to get continue 👇"
+      "description": "Ahora, vamos a pedirle a Copilot que importe el módulo `random`. Escribí este comentario `# import random module` en la próxima linea. Presionar enter para crear una nueva línea y aceptar las sugerencias de Copilot. \n\n `Next` para seguir 👇"
     },
     {
       "file": "main.py",
       "line": 4,
-      "description": "Now, let's prompt Copilot to create a main function that handles the logic of the game with a  comment that says `# define main function that handles all the logic`. Press enter to create a new line and accept Copilot's suggstion. \n\nPress `Next` to to get continue 👇"
+      "description": "Ahora, pidamosle a Copilot que cree una funcion principal (main) que maneje la lógica del juego, con un comentario que diga `# definir una funcion principal que maneje toda la logica`. Presionar enter para crear una nueva línea y aceptar las sugerencias de Copilot. \n\n `Next` para seguir 👇"
     },
     {
       "file": "main.py",
       "line": 64,
-      "description": "Now, let's prompt Copilot to call the main function. Write this comment `# call main function` on the next line. Press enter to create a new line and accept Copilot's suggstion. \n\nPress `Next` to to get continue 👇"
+      "description": "Ahora, pidamosle a Copilot que llame a la funcion principal. Escribí este comentario `# llamar a la funcion principal ` en la siguiente linea. Presionar enter para crear una nueva línea y aceptar las sugerencias de Copilot. \n\n `Next` para seguir 👇"
     },
     {
       "title": "Try it out!",
-      "description": "Let's run the code to see if it works. In your terminal, run `python3 main.py`. It should start the rock, paper, scissors game. \n\nMission complete! You've used GitHub Copilot to create a rock, paper, scissor game"
+      "description": "Ejecutemos el código a ver si funciona! In la terminal, correr `python3 main.py`. Debería iniciar el juego de piedra, papel o tijera. \n\nMisión cumplida! Usamos GitHub Copilot para crear un juego de piedra, papel o tijera!"
     }
   ],
   "ref": "main"
